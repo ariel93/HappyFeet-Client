@@ -5,7 +5,7 @@ import { TableHead, TableRow, TableCell } from '@mui/material'
 const ShoesTableHeader = () => {
   return (   
     <TableHead>
-        <TableRow>
+        <TableRow >
             <TableCell align="left">Name</TableCell>
             <TableCell align="left">Brand</TableCell>
             <TableCell align="left">Price</TableCell>
